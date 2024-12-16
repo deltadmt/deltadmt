@@ -18,6 +18,6 @@
 
 
 
-![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs?username=delatdmt&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs?username=deltadmt&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 ![My GitHub activity graph</](https://github-readme-activity-graph.vercel.app/graph?username=delatdmt&theme=github-compact&bg_color=000000)
