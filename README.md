@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**deltadmt/deltadmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Josu%C3%A9+DA-MATHA!;A+learner+in+Intelligent+Robotic+System+%26+AI">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DMTJosue&label=Profile%20views&color=0e75b6&style=flat" alt="DMTJosue" /> </p>
+
+
+
+- 🔭 I’m currently learning **Intelligent Robotic System & AI**
+
+- 📫 How to reach me **mathieudamatha@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
+
+
+
+![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs?username=delatdmt&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+![My GitHub activity graph</](https://github-readme-activity-graph.vercel.app/graph?username=delatdmt&theme=github-compact&bg_color=000000)
